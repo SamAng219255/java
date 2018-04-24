@@ -1,4 +1,5 @@
 //code by CW Coleman
+//edited by SamAng219255
 //save as JuliaPlotLoop.java
 //java JuliaPlotLoop 100 1 0 10 20 30 10 20 30 250 100
 //java JuliaPlotLoop 2000 1 0 10 20 30 10 20 30 250 0
