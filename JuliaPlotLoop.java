@@ -1,6 +1,5 @@
 //code by CW Coleman
 //save as JuliaPlotLoop.java
-//...............   c    ci limit red green blue redAjust greenAjust blueAjust scale
 //java JuliaPlotLoop 100 1 0 10 20 30 10 20 30 250 100
 //java JuliaPlotLoop 2000 1 0 10 20 30 10 20 30 250 0
 import java.awt.*;
